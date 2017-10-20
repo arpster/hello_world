@@ -1,2 +1,3 @@
 # hello_world
-Just another repository
+
+I'm an old dog trying to learn new tricks.
